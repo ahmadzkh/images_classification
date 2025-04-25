@@ -1,0 +1,10 @@
+.vscode/
+__pycache__/
+*.h5
+*.zip
+*.tflite
+*.js
+.kaggle/
+kaggle.json
+.venv/
+node_modules/
